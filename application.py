@@ -6,7 +6,7 @@ app = application
 
 @app.route('/')
 def hello_world():
-    return 'Hello World'
+    return 'ssup bruh'
 
 
 if __name__ == '__main__':
